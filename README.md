@@ -36,8 +36,8 @@ Follow these steps to get started with KisanWise:
 1. **Clone the repository:**
 
    ```sh
-   git clone https://github.com/DavyJonesCodes/kisanWise.git
-   cd kisanWise
+   git clone https://github.com/andersn0002/kisan.git
+   cd kisan.git
    ```
 
 2. **Install dependencies:**
@@ -51,12 +51,6 @@ Follow these steps to get started with KisanWise:
    ```sh
    npm run dev
    ```
-
-## 💻 Usage
-
-To explore KisanWise locally, navigate to `http://localhost:3000` in your web browser. This project is a frontend-only mockup intended to demonstrate UI/UX design and frontend development skills.
-
-You can also view the site online at [https://davyjonescodes.github.io/KisanWise/](https://davyjonescodes.github.io/KisanWise/).
 
 ## 🌟 Contributing
 
@@ -78,9 +72,6 @@ This project is licensed under the MIT License - see the [LICENSE](./LICENSE) fi
 
 For inquiries or support, please contact:
 
-- **Dev Jones**
-  - 📧 [devjonescodes@gmail.com](mailto:devjonescodes@gmail.com)
-
----
-
-Thank you for checking out KisanWise! 🌾 This project demonstrates my frontend development capabilities.
+- **Yuya Sano**
+  - 📧 [Gmail](mailto:andersn0093@gmail.com)
+  - 📧 [Telegram](https://t.me/andersn0093)
