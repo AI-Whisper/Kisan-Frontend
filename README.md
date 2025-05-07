@@ -36,7 +36,7 @@ Follow these steps to get started with KisanWise:
 1. **Clone the repository:**
 
    ```sh
-   git clone https://github.com/andersn0002/kisan.git
+   git clone https://github.com/yuyasano/kisan-Frontend.git
    cd kisan.git
    ```
 
