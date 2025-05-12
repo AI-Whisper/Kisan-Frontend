@@ -63,15 +63,3 @@ We welcome contributions! To contribute:
 5. Submit a pull request.
 
 Ensure your pull request adheres to our coding standards.
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
-
-## 📞 Contact
-
-For inquiries or support, please contact:
-
-- **Yuya Sano**
-  - 📧 [Gmail](mailto:andersn0093@gmail.com)
-  - 📧 [Telegram](https://t.me/andersn0093)
